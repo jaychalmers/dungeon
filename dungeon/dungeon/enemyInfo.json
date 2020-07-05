@@ -1,0 +1,16 @@
+﻿{
+    "Orc": {
+        "Stats": {
+            "Strength": 2,
+            "Dexterity": -2
+        },
+        "Token": "O"
+    },
+    "Goblin": {
+        "Stats": {
+            "Strength": -2,
+            "Dexterity": 2
+        },
+        "Token": "G"
+    }
+}

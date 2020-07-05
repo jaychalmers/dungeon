@@ -1,0 +1,10 @@
+{
+  "Fighter": {
+    "Strength": 2,
+    "Dexterity": -2
+  },
+  "Rogue": {
+    "Strength": -2,
+    "Dexterity": 2
+  }
+}
